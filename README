@@ -1,5 +1,0 @@
-1.) TO run the server :
-	python3 mainserver.py portnumber
-	
-2.) for running the test cases :
-	python3 tester.py portnumber		
