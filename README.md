@@ -6,3 +6,9 @@ This also include the testing  of server.
 Technology use Python, multithreading is done to handle concurrent request.
 
 
+1.) TO run the server :
+	python3 mainserver.py portnumber
+	
+2.) for running the test cases :
+	python3 tester.py portnumber	
+
